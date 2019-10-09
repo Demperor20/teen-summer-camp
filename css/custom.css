@@ -1,0 +1,63 @@
+body{
+	font-family: Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !default;
+}
+
+/*
+.navbar .navbar-brand{
+	color: rgba(255, 255, 255, 0.85);
+	font-size: 0.5rem;
+	padding: 5px;
+	margin-left: 100px;
+}
+*/
+
+.col-sm{
+	border-right: 1px solid grey;
+}
+.col-sm-s{
+	padding-left: 10px;
+}
+.navbar{
+	background-color: #007bff;
+	align-items: center;
+	font-family: sans-serif;
+	font-size: 18px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.display-2{
+	color: whitesmoke;
+	font-style: Bell MT;
+}
+.navbar-nav{
+	margin-left: 400px;
+	}
+.font-weight{
+	color: whitesmoke;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 18px;
+}
+
+.nav-item{
+	padding-left: 60px;
+}
+.jumbotron{
+	background-image: linear-gradient(90deg,rgba(75, 155, 155, 0.60) 21%, rgba(98, 155, 155, 0.60) 94%), url('../Images/jump.jpg');
+	background-size: cover;
+	padding: 5em inherit;
+	min-height: 600px;
+	background: overlay;
+}
+.home{
+	padding: 1px;
+	margin-top: auto;
+}
+
+h1{
+	color: aliceblue;
+}
+.font-weight-bold{
+	color: white;
+}

@@ -1,0 +1,10 @@
+.body{
+	background-size: cover;
+	background-position: center;
+	background: linear-gradient(90deg, rgba(75, 108, 255, 0.73) 21%, rgba(98, 239, 244, 0.71) 94%);
+	position: relative;
+	top: 0;
+	bottom: 0;
+	height: 100vh;
+	z-index: -10;
+}
